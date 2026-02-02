@@ -1,4 +1,4 @@
-This project contains 2 parts:
+This project contains 3 parts:
 
 Frontend → React
 
