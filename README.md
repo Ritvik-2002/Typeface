@@ -17,6 +17,10 @@ Backend :
 Open a terminal and go to the Backend folder: cd backend npm install ,  node app.js
 Access it at http://localhost:3001
 
+Database :
+
+Will run automatically Itself Stoing the files in the local storage
+
 
 Backend Features
 1) JWT-based authentication for secure login
