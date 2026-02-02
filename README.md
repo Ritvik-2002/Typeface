@@ -4,6 +4,8 @@ Frontend → React
 
 Backend → Node
 
+Database -> SQlite
+
 How to Run
 Frontend (React):
 
