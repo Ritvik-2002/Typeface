@@ -1,7 +1,9 @@
 This project contains 2 parts:
 
 Frontend → React
+
 Backend → Node
+
 How to Run
 Frontend (React):
 
