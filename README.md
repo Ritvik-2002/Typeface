@@ -17,9 +17,8 @@ Access it at http://localhost:3001
 
 
 Backend Features
-JWT-based authentication for secure login
-Password hashing for secure user credential storage
-User registration and login APIs
-File upload and download endpoints
-File preview functionality
-Secure access control ensuring only authenticated users can manage their files
+1) JWT-based authentication for secure login
+2) Password hashing for secure user credential storage
+3) User registration and login APIs
+4) File upload and download endpoints
+5) Secure access control ensuring only authenticated users can manage their files
