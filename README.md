@@ -5,12 +5,12 @@ Backend → Node
 How to Run
 Frontend (React):
 
-Open a terminal and go to the Frontend folder: cd frontend npm install npm start
+Open a terminal and go to the Frontend folder: cd frontend npm install ,  npm start
 Access it at http://localhost:3000
 
 Backend :
 
-Open a terminal and go to the Backend folder: cd backend npm install node app.js
+Open a terminal and go to the Backend folder: cd backend npm install ,  node app.js
 Access it at http://localhost:3001
 
 
